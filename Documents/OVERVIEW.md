@@ -1,6 +1,6 @@
 # NUCLEO-F446RE_BSP
 
-The **STMicroelectronics NUCLEO-L476RG Board Support Pack (BSP)**:
+The **STMicroelectronics NUCLEO-F446RE Board Support Pack (BSP)**:
 
 - Contains examples in *csolution format* for usage with the [CMSIS-Toolbox](https://github.com/Open-CMSIS-Pack/cmsis-toolbox/blob/main/docs/README.md) and the  [VS Code CMSIS Solution](https://marketplace.visualstudio.com/items?itemName=Arm.cmsis-csolution) extension.
 - Requires the [Device Family Pack (DFP) for the STM32F4 series](https://www.keil.arm.com/packs/stm32f4xx_dfp-keil).
