@@ -41,3 +41,10 @@ project:
     - script:  ./RTE/Device/STM32F446RETx/ac6_linker_script.sct.src
       regions: ./RTE/Device/STM32F446RETx/regions_NUCLEO-F446RE.h
       for-compiler: AC6
+
+  # List executable file formats to be generated.
+  output:
+    type:
+      - elf
+      - hex
+      - map

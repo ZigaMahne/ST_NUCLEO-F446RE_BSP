@@ -32,7 +32,7 @@ The table below lists the physical I/O mapping of this CMSIS-Driver VIO implemen
 | vioBUTTON0    | vioSignalIn.0  | USER button (B1)     | PC13
 | vioLED0       | vioSignalOut.0 | LED Green   (LD2)    | PA5
 
-Note: The pin LED LD2 conflict with the pin SPI2_SCK on the board. The #define VIO_DISABLE_LD2 disables this LED.
+Note: The pin LED LD2 conflict with the pin SPI1_SCK on the board. The #define VIO_DISABLE_LD2 disables this LED.
 */
 
 #include "cmsis_vio.h"
